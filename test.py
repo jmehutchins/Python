@@ -1,8 +1,13 @@
-while True:
-    line = input("what is my favorite color? ")
-    if line == "blue" :
-        print(line, "is the best!")
-        break
-    else :
-        print(line, "is not my favorite" )
-print("Goodbye!")
+numlist = list()
+while True :
+    inp = input("Enter a number: ")
+    if inp == "done" : break
+    try:
+        value = float(inp)
+    except:
+        print("Invalid entry, try again")
+        continue
+    value = float(inp)
+    numlist.append(value)
+average = sum(numlist) / len(numlist)
+print("Average: ", average)

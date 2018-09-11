@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \ul \ulc0 Kits (Kyle \'93Kitten\'94 Cast)\
+\
+\ulnone Age: 17\
+Height: 5\'9210\'94\
+Eyes: Brown\
+Hair: Curly Brown\
+Build: Slight\
+Hometown: WMI (Waste Management Industries, inc) - Tuba City Branch\
+\
+Kits is the son of Ames and Cecile Cast. He is the nephew of Bramble Cast, supervisor of the Metallurgy Shipping and Receiving Division of WMI. He works for his uncle, maintaining and loading shipping containers and sorting metals for reprocessing. He wants to pilot the shipping aircrafts but had an accident when he was 14 which caused the loss of his cousin, Reggie\'92s, right arm.\
+\
+\ul Bramble Cast\
+\
+\ulnone Age: 46\
+Height: 5\'926\'94\
+Eyes: Brown\
+Hair: Black, balding\
+Build: Stocky\
+Hometown: WMI (Waste Management Industries, inc) - Tuba City Branch\
+\
+Bramble is the younger brother of Ames Cast. He became the owner of Cast\'92s Shipping Co. when his  brother and his wife, Cecile Cast, went to prison for smuggling P545 across boundaries. He forfeited Cast\'92s Shipping Co. to WMI in exchange for a shortened sentence for his daughter, Reggie Cast, who was also arrested. He now supervises the Metallurgy Shipping and Receiving Division of WMI.\
+\
+\ul Regina \'93Reggie\'94 Cast\
+\
+\ulnone Age: 23\
+Height: 5\'929\'94\
+Eyes: Brown\
+Hair: Short black\
+Build: Athletic\
+Hometown: WMI (Waste Management Industries, inc) - Tuba City Branch\
+\
+Reggie Cast is the only daughter of Bramble Cast and his late wife, Penelope. At 19 she went to prison for smuggling P545 with her aunt and uncle, Cecile and Ames Cast, but was released after only 7 months. She lost her right arm in a shipping accident caused by her cousin, Kits, a year later. She now has a bionic replacement and claims to like it better than her original arm.\
+\
+\ul Yunchi\
+\ulnone \
+Age: Unknown\
+Height: 10\'94\
+Eyes: Yellow\
+Hair: None\
+Build: Steel\
+Hometown: Unknown\
+\
+Yunchi is a robo-cat with artificial feline intelligence. Yunchi\'92s origin is unclear, having come to Ames and Cecile Cast through a shipment that was returned to Cast Shipping Co. in a crate labeled \'93Undeliverable\'94. After multiple unsuccessful attempts to reach the origin and destination contacts, the Casts gave the robo-cat \'97 the only item in the crate \'97 to their three-year-old son, Kyle, who had been nicknamed \'93Kitten\'94 (\'93Kits\'94 for short) for his love of feline holographic wonder tales.}
